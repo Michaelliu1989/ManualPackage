@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ManualPackage</string>
+    <string name="text">手动打包 apk</string>
+</resources>
